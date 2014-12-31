@@ -1,6 +1,6 @@
 Java Based Basic Network Simulator
 Created using Java and Java Swings
-Step1 - Create nodes by choosing the node tab and left mouse click on drawing platform.
+Step 1 - Create nodes by choosing the node tab and left mouse click on drawing platform.
 Step 2 - Draw Links between each node where first clicked node is the source.
 Step 3 - Choose source node as TCP and destination as TCPSink and create a transfer link between them.
 Step 4 - Create a FTP point at source node.
